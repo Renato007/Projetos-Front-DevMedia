@@ -1,0 +1,7 @@
+#menu{
+    display: flexbox;
+}
+
+.lista-menu{
+    flex-direction: column;
+}
