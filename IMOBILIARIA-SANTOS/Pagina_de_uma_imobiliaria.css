@@ -1,7 +1,177 @@
-#menu{
-    display: flexbox;
+/* ATRIBUTOS GLOBAIS */
+html{
+    scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  font-family: "Tahoma";
 }
 
-.lista-menu{
-    flex-direction: column;
+section,
+nav {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 28px;
+}
+span {
+  font-weight: bold;
+}
+/* ATRIBUTOS DA SESSÃO DE NAVEGAÇÃO */
+
+nav {
+  background-color: #afddfb;
+}
+nav img {
+  width: 150px;
+}
+
+nav p {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+nav p a {
+  font-size: 18px;
+  color: #1d1d1d;
+  border-bottom: 2px solid #1d1d1d;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+/* ATRIBUTOS DA SESSÃO BANNER */
+
+#banner {
+  margin-top: 50px;
+  padding-top: 0;
+}
+
+/* ATRIBUTOS DA SESSÃO SOBRE */
+#section-sobre h1 {
+  color: #1d1d1d;
+  margin-bottom: 5px;
+}
+#section-sobre h2 {
+  color: #1c81c0;
+  margin: 0;
+  font-weight: normal;
+  font-size: 17px;
+}
+#section-sobre img {
+  width: 450px;
+  margin-top: 20px;
+}
+
+#section-sobre p span {
+  color: #1c81c0;
+  font-weight: bold;
+}
+
+#section-sobre p {
+  margin: 10px auto;
+  width: 980px;
+  text-align: justify;
+}
+
+/* ATRIBUTOS DA SESSÃO SERVIÇOS */
+#section-servicos {
+  background-color: #1c81c0;
+}
+
+#section-servicos h2 {
+  color: #ffffff;
+  font-size: 28px;
+}
+#section-servicos p {
+  color: #ffffff;
+  line-height: 42px;
+  font-family: 22px;
+  text-align: center;
+  margin: 0 auto;
+  width: 700px;
+}
+
+#section-servicos span {
+  color: #fff81b;
+  font-weight: bold;
+}
+
+#section-servicos ul {
+  margin: 40px auto;
+  width: 135px;
+}
+
+#section-servicos ul li {
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 42px;
+  text-align: left;
+  font-weight: normal;
+}
+
+/* ATRIBUTOS DA SESSÃO CORRETORES */
+
+#section-corretores h2 {
+  color: #1c81c0;
+  font-size: 28px;
+}
+
+#section-corretores img {
+  width: 450px;
+  margin-top: 20px;
+}
+
+#section-corretores p {
+  line-height: 42px;
+  font-family: 22px;
+  text-align: center;
+  margin: 0 auto;
+  width: 700px;
+}
+
+#section-corretores p span {
+  color: #1c81c0;
+  font-weight: bold;
+}
+
+/* ATRIBUTOS DA SESSÃO CONTATOS */
+#section-contatos {
+  background-color: #1c81c0;
+}
+
+#section-contatos h2 {
+  color: #ffffff;
+  font-size: 28px;
+}
+#section-contatos p {
+  color: #ffffff;
+  padding: 15px;
+  background-color: #1d1d1d;
+  margin-top: 30px;
+}
+#section-contatos p span {
+  color: #fff81b;
+}
+
+#section-contatos ul {
+  margin: 40px auto;
+  list-style: none;
+  width: 210px;
+}
+#section-contatos ul li {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 18px;
+}
+
+#section-contatos ul li a {
+  background-color: #ffffff;
+  color: #1c81c0;
+  padding: 2px 5px;
+  border-radius: 5px;
 }

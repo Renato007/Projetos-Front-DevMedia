@@ -6,7 +6,7 @@ Acadêmico e didático.
 3. Estilizar os elementos HTML.
 
 ### Fase de construção
-Este projeto exigiu conceitos básicos de HTML e CSS. Foi bem interessante de faze-lo, por ser simples e rápido podendo adaptar para outras necessidades de divulgação sejá para eventos etc.
+Este projeto exigiu conceitos básicos de HTML e CSS. Foi bem interessante de faze-lo, por ser simples e rápido podendo adaptar para outras necessidades de negócio.
 
 ### Resultado Final
-![ ](./img/layout_completo.jpg)
+![ ](./img/projeto-final.jpeg)
