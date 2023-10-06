@@ -4,3 +4,5 @@ Estão alguns dos meus trabalhos enquanto aluno matriculado na trilha de Front d
 ✅ nivél-iniciante [Divulgação do Livro](./Divulgacao_Livro)
 </br>
 ✅ nivél-iniciante [Pagina única Imobiliária Santos](./IMOBILIARIA-SANTOS)
+</br>
+✅ nivél-iniciante [Divulgação de um filme](./Apresentacao_Filme_Doutor%20estranho2)
