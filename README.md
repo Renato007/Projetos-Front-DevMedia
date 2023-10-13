@@ -10,3 +10,5 @@ Estão alguns dos meus trabalhos enquanto aluno matriculado na trilha de Front d
 ✅ 04-[Página Pokémon](./Pagina-Pokémon)
 </br>
 ✅ 05-[Página Pedido Pizza](./Pagina_Pedido_Pizza)
+</br>
+✅ 06-[Página Home de uma Cafeteria](./Website_Cafeteria)
