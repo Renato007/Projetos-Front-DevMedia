@@ -35,4 +35,4 @@ Colocar em prática os seguintes conceitos:
 
 
 ### Resultado Final
-![ ]()
+![ ](./img/layout-pagina-cafeteria.png)
