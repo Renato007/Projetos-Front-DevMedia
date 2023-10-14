@@ -1,0 +1,16 @@
+.paleta {
+  color: #fff #f1f3f7 #f6f6f6 #a89f9f #233032 #2f86d6;
+}
+.paleta2 {
+  color: #fff #f1f3f7 #f6f6f6 #a8a4a4 #233032 #2f86d6 rgba(47, 134, 214, 1);
+}
+
+/* Configurações gerais */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Configuração do Topo Página Home */
