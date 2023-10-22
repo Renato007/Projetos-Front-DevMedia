@@ -23,7 +23,7 @@ Neste projeto não exploraremos a parte responsiva do CSS (adaptação para tela
     * Espaçamento dos elementos do projeto;
     * Aplicação de posicionamentos Modelo Caixa Flexível
 
-2. Estruturação da página será dividida em seis seções: topo; banner; informações; contato; horário; rodapé.
+2. Estruturação da página
 
 
 
