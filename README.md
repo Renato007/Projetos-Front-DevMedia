@@ -14,3 +14,5 @@ Estão alguns dos meus trabalhos enquanto aluno matriculado na trilha de Front d
 ✅ 06-[Página Home de uma Cafeteria](./Website_Cafeteria)
 </br>
 ✅ 07-[Página Provedor de Hospedagem](./Pagina_Provedor_de_Hospedagem)
+</br>
+✅ 08-[Página Provedor de Hospedagem](./Website_Pousada)
