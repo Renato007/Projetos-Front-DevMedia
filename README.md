@@ -16,3 +16,5 @@ Estão alguns dos meus trabalhos enquanto aluno matriculado na trilha de Front d
 ✅ 07-[Página Provedor de Hospedagem](./Pagina_Provedor_de_Hospedagem)
 </br>
 ✅ 08-[ Website Pousada Secreta](./Website_Pousada)
+</br>
+✅ 09-[ LinkBio do Neymar](./Projeto_redesSociaisNeymar)
