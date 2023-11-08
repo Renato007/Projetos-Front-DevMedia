@@ -33,5 +33,7 @@ Nosso projeto é um site de uma **clinica médica** que possui duas páginas:
         * cada sessão (container-titulo, box-tabela-especialista )
     * rodapé (conteiner-logo, container-endereços)
 
+3. Estilização
+
 ### Resultado Final
-![ ](./img/projeto-finalizado.gif.crdownload)
+![ ](./img/anime1.gif.crdownload)

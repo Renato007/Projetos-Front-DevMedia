@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber café</title>
+    <style>
+        *
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    width: 100%;
+    height: 55px;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #00318b;
+    color: #f8f8f8;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+footer
+{
+    width: 100%;
+    height: 55px;
+    position: sticky;
+    bottom: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: sans-serif;
+    background: #f8f8f8;
+    color: #00318b;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 430px;
+    margin: 30px auto;
+    height: 100%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+textarea {
+    height: 120px;
+    margin: 30px 0 25px 0;
+    padding: 10px;
+    font-size: 18px;
+}
+
+button {
+    background: #00318b;
+    border: none;
+    height: 32px;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #fff;
+}
+
+p {
+    margin: 20px 0 0 0;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #00318b;
+}
+    </style>
+</head>
+<body>
+    <header>
+        <span>CyberExpress</span>
+    </header>
+    <main>
+        <h1>Caixa de Sugestões</h1>
+
+        <p>Escreva na caixa de texto abaixo o que podemos fazer para melhorar
+        o espaço do CyberExpress. Deixe seu elogio, crítica ou sugestão abaixo e
+        envie pra gente!</p>
+
+        <form action="https://www.devmedia.com.br/codigos/formularios/aula2/">
+            <textarea name="sugestao"></textarea>
+            <button type="submit">Enviar sugestão</button>
+        </form>
+    </main>
+    <footer>
+        Copyright 2022 - CyberExpress
+    </footer>
+</body>
+</html>
